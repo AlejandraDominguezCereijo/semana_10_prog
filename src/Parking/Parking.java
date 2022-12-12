@@ -108,6 +108,7 @@ public class Parking {
         }
     }
 
+    //Esta parte del parking aun esta en obras
     public void retirarVehiculo(int quieresRetirar, int matriculaPlaza) {
         if (quieresRetirar == 1) {
             if (matriculaPlaza == 1) {
